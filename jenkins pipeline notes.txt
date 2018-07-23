@@ -1,0 +1,9 @@
+2f4f3f7485c048a3a954b8d5c6d0bc83
+
+admin pass djloisel@yahoo.com
+
+
+http://ec2-54-164-79-107.compute-1.amazonaws.com:8080/jenkins
+
+
+3d4de12f440b74f264a35abf4db13bd1496522d0 - jenkins-demo token
